@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a {
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption {
+  font-size: 8px;
+  margin: auto;
+}
+
+.featured-property .p {
+  text-align: center;
+  width: 800px;
+}
+
+#details {
+  display: block;
+  float: left;
+}
+
+.details .div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}

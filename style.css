@@ -28,7 +28,7 @@ figcaption {
 }
 
 .p .featured-property {
-  margin: auto;
+  text-align: center;
   width: 800px;
 }
 
@@ -37,4 +37,8 @@ figcaption {
   float: left;
 }
 
-.details
+.details .div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
